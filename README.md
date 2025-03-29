@@ -14,6 +14,9 @@ The design of the data architecture of this is based on Medallion Architecture *
 
 ![Data Architecture](https://github.com/OpsyGotti/sql-data-warehouse-project/blob/main/docs/images/Data_Architecture.drawio.png)
 
+1. **Bronze Layer**: This will store the data in its raw form from the data sources. Data will be ingested from CSV files into the SQL Server Database.
+2. **Silver Layer**: This layer performs data cleansing, standardization, and normalization to ensure data quality and consistency for accurate analysis
+3. **Gold Layer**: Stores business-ready data structured in a star schema, optimized for reporting and analytics.
 
 ## Project Requirements
 
