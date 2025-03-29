@@ -1,1 +1,1 @@
-_<source>
+git checkout -b <category>_<entity>
