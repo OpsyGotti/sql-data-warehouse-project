@@ -11,8 +11,8 @@ The Gold Layer represents business-level data, designed to support analytical an
 - Columns:
 
 | Column Name | Data Type | Description |
-|customers_key | INT | Surrogate key uniquely identifying each customer record in the dimension table.|
 |--- | --- | --- |
+|customers_key | INT | Surrogate key uniquely identifying each customer record in the dimension table.|
 |--- | --- | --- |
 |--- | --- | --- |
 |--- | --- | --- |
