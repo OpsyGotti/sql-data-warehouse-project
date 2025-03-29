@@ -1,5 +1,10 @@
-# sql-data-warehouse-project
-Building a modern datawarehouse with SQL Serve, including ETL processes, data modeling and analytics.
+# Data Warehouse and Analytics Project
+Welcome to the Data Warehouse and Analytics Project repository! ![rocket](https://github.com/user-attachments/assets/d5309c87-d9ec-423b-905d-1f54d6a0dc8d)
+
+
+Building a modern datawarehouse with SQL Server, including ETL processes, data modeling and analytics.
+
+
 
 
 Welcome to the ** Data Warehouse and Analytics Project ** repository! 
