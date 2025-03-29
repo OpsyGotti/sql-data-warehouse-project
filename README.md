@@ -17,8 +17,20 @@ The design of the data architecture of this is based on Medallion Architecture *
 1. **Bronze Layer**: This will store the data in its raw form from the data sources. Data will be ingested from CSV files into the SQL Server Database.
 2. **Silver Layer**: This layer performs data cleansing, standardization, and normalization to ensure data quality and consistency for accurate analysis
 3. **Gold Layer**: Stores business-ready data structured in a star schema, optimized for reporting and analytics.
+---
 
-# ![image](https://github.com/user-attachments/assets/2fb2812a-d7e4-482c-ae64-02e17a09efb6) Project Overview
+# Project Overview
+This project involves:
+1. Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze, Silver and Gold** layers.
+2. ETL Pipelines: Extracting, transforming and loading data from source systems into the warehouse.
+3. Data Modeling: Developing fact and dimension tables optimised for analytical queries.
+4. Analytics & Reporting: Creating SQL-based reports for actionable insights.
+
+# Important Links & Tools:
+
+
+- [Datasets](https://github.com/OpsyGotti/sql-data-warehouse-project/tree/main/datasets)
+- [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 
 # Project Requirements
