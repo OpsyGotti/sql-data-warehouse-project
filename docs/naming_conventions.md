@@ -1,1 +1,1 @@
-git checkout -b <category>_<entity>
+`<category>_<entity>` 
