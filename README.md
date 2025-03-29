@@ -77,4 +77,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## * About Me
 
-Hi there! I'm ** Opeyemi Abolade ** , also known as ** Opsy Gotti **. state other fun facts and professional facts
+Hi there! I'm **Opeyemi Abolade** , also known as **Opsy Gotti**. I am a Data enthusiast and willing to showcase what my competencies in Data Analytics and Engineering.
