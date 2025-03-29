@@ -9,7 +9,7 @@ highlights industry best practices in data engineering and analytics.
 
 ---
 
-# Data Architecture
+# 🏗️ Data Architecture
 The design of the data architecture of this is based on Medallion Architecture **Bronze, Silver, and Gold layers**:
 
 ![Data Architecture](https://github.com/OpsyGotti/sql-data-warehouse-project/blob/main/docs/images/Data_Architecture.drawio.png)
@@ -19,14 +19,14 @@ The design of the data architecture of this is based on Medallion Architecture *
 3. **Gold Layer**: Stores business-ready data structured in a star schema, optimized for reporting and analytics.
 ---
 
-# Project Overview
+# 📖 Project Overview
 This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze, Silver and Gold** layers.
 2. **ETL Pipelines**: Extracting, transforming and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimised for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports for actionable insights.
 
-This project repository is an excellent resource highlighting the following expertise in:
+🎯 This project repository is an excellent resource highlighting the following expertise in:
 - SQL Development
 - Data Architect
 - Data Engineering
@@ -35,7 +35,7 @@ This project repository is an excellent resource highlighting the following expe
 - Data Analytics
 ---
 
-# Important Links & Tools:
+# 🛠️ Important Links & Tools:
 
 
 - [Datasets](https://github.com/OpsyGotti/sql-data-warehouse-project/tree/main/datasets): Access to the project dataset (csv files).
@@ -46,6 +46,7 @@ This project repository is an excellent resource highlighting the following expe
 - [Notion](https://www.notion.so/): All-in-one tool for project management and organisation.
 - [Notion Project Steps]: Access to All Project Phases and Tasks.
 
+---
 
 # 🚀Project Requirements
 
@@ -61,7 +62,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - ** Scope **: Focus on the latest dataset only; historization of data is not required.
 - ** Documentation **: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 ---
-### BI: Analytics & Reporting (Data Analytics)
+# BI: Analytics & Reporting (Data Analytics)
 
 #### Objective
 Develop SQL-based analytics to deliver detailed insights into:
@@ -71,10 +72,14 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-# License
+---
+
+# 🛡️License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## * About Me
+
+
+# 🌟 About Me
 
 Hi there! I'm **Opeyemi Abolade** , also known as **Opsy Gotti**. I am a Data enthusiast and willing to showcase what my competencies in Data Analytics and Engineering.
