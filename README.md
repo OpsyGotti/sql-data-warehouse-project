@@ -12,7 +12,7 @@ highlights industry best practices in data engineering and analytics.
 # Data Architecture
 The design of the data architecture of this is based on Medallion Architecture **Bronze, Silver, and Gold layers**:
 
-!
+![https://github.com/OpsyGotti/sql-data-warehouse-project/blob/main/docs/Data_Architecture.drawio%20(1).png]
 
 
 ## Project Requirements
