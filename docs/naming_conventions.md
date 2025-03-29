@@ -27,9 +27,11 @@ This document defines naming conventions for data warehouse objects, including s
 ## Bronze Rules
 
 - All names must start with the source system name, and table names must match their original names without renaming.
-- '<sourcesystem>_<entity>'
-  - '<sourcesystem>': Name of the source system (e.g., crm, erp).
-  - '<entity>': Exact table name from the source system.
-  - Example: 'crm_customer_info' → Customer information from the CRM system.
+- `<sourcesystem>_<entity>`
+  - `<sourcesystem>`: Name of the source system (e.g., crm, erp).
+  - `<entity>`: Exact table name from the source system.
+  - Example: `crm_customer_info` → Customer information from the CRM system.
  
 <'abc'>
+
+`<category>_<entity>`
