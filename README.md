@@ -42,7 +42,7 @@ This project involves:
 - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads): Lightweight server for hosting the SQL database.
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16): GUI for managing and interacting databases.
 - [Git Repository](https://github.com): Set up a GitHub account and repository to manage, version and collaborate on your code efficiently.
-- [DrawIO](draw.io): Design data architecture, models, flows and diagrams.
+- [DrawIO](https://www.draw.io): Design data architecture, models, flows and diagrams.
 - [Notion](https://www.notion.so/): All-in-one tool for project management and organisation.
 - [Notion Project Steps]: Access to All Project Phases and Tasks.
 
