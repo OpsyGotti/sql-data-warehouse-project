@@ -23,6 +23,7 @@ The Gold Layer represents business-level data, designed to support analytical an
 | birthdate | DATE | The date of birthe of the customer, formatted as YYYY-MM-DD (e.g. 1971-10-06). |
 | create_date | DATE | The date and time when the customer record was created in the system. |
 
+---
 
 **2. gold.dim_products**
 - Purpose: Provides information about the products and their attributes.
@@ -42,7 +43,23 @@ The Gold Layer represents business-level data, designed to support analytical an
 | product_line | NVARCHAR(50) | The specific product line or series to which the product belongs (e.g. Road, Mountain). |
 | start_date | DATE | The date when the product became available for sale or use, stored in the system. |
 
+---
 
+**3. gold.fact_Sales**
+- Purpose: Stores transactional sales data for analytical purposes
+- Columns:
+  
+| Column Name | Data Type | Description |
+|--- | --- | --- | 
+| order_number | NVARCHAR(50) | A unique alphanumeric identifier for each sales order (e.g. 'SO54496'). | 
+| product_key | INT | Surrogate key linking the order to the product dimension table. |
+| customer_key | INT | Surrogate key linking the order to the customer dimension table. | 
+| order_date | DATE | The date when the order was placed. | 
+| shipping_date | DATE | The date when the order was shipped to the customer. | 
+| due_date | DATE | The date when the order payment was due. | 
+| sales_amount | INT | The total monetary value of the sale for the line item, in whole currency units (e.g., 25) | 
+| quantity | INT | The number of units of the product ordered for the line item (e.g., 1). | 
+| price | INT | The price per unit of the product for the line item, in whole currency units (e.g., 25). | 
 
 
 
