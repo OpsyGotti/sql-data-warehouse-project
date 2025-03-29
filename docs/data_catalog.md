@@ -1,4 +1,4 @@
-# Data Catalog for Gold
+# Data Catalog for Gold Layer
 
 ## Overview
 
