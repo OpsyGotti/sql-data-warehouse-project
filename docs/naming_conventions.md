@@ -32,4 +32,4 @@ This document defines naming conventions for data warehouse objects, including s
   - '<entity>': Exact table name from the source system.
   - Example: 'crm_customer_info' → Customer information from the CRM system.
  
-'<abc>'
+<'abc'>
